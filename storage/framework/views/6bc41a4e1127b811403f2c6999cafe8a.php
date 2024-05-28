@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\drogueria4\resources\views/layouts/partial/msg.blade.php ENDPATH**/ ?>
